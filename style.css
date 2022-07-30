@@ -1,14 +1,23 @@
 /*fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,400&display=swap ')
 
 /*common style*/
 body {
     font-family: poppins;
-    overflow-x: hidden;
+    overflow-x: ;
+}
+
+h1 {
+    background: #dda20036;
+}
+
+p {
+    background: #FFFFFF;
 }
 
 .top-banner-container {
-    disply: flex background-color: #161616;
+    disply: flex;
+    background-color: #161616;
     margin: 45px 90px 80px border-radius:22px;
     overflow: hidden;
 }
